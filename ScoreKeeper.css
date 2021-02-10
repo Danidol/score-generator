@@ -1,0 +1,16 @@
+.winner {
+    color: rgb(46, 226, 46);
+}
+
+.looser {
+    color: rgb(255, 0, 0);
+}
+
+body {
+    font-family: 'Baloo 2 700', cursive;
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+}
